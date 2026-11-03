@@ -1,0 +1,19 @@
+{
+  "reactor_information": {
+    "reactor_type": null,
+    "thermal_type": null,
+    "spectrum": null,
+    "coolant": "helium",
+    "moderator": null
+  },
+  "nuclear_security_information": {
+    "physical_protection": null,
+    "cybersecurity": null,
+    "material_control_and_accounting": null,
+    "safeguards_and_nonproliferation": null,
+    "fuel_and_storage_security": null,
+    "transport_security": null,
+    "security_by_design": null,
+    "security_regulatory_status": null
+  }
+}

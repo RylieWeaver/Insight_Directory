@@ -1,0 +1,76 @@
+{
+  "company_name": null,
+  "company_information": {
+    "legal_name": null,
+    "website_url": null,
+    "headquarters_country": null,
+    "founded_year": null,
+    "ownership_type": null,
+    "stock_exchange": null,
+    "stock_ticker": null,
+    "summary": null
+  },
+  "reactor_information": {
+    "design_name": null,
+    "reactor_type": null,
+    "thermal_type": null,
+    "spectrum": null,
+    "coolant": null,
+    "moderator": null,
+    "fuel_material": null,
+    "fuel_form": null,
+    "uranium_enrichment_percent_u235": null,
+    "thermal_power_mwth": null,
+    "electric_power_mwe": null,
+    "outlet_temperature_c": null,
+    "design_life_years": null,
+    "refueling_interval_months": null
+  },
+  "nuclear_security_information": {
+    "physical_protection": null,
+    "cybersecurity": null,
+    "material_control_and_accounting": null,
+    "safeguards_and_nonproliferation": null,
+    "fuel_and_storage_security": null,
+    "transport_security": null,
+    "security_by_design": null,
+    "security_regulatory_status": null
+  },
+  "development_information": {
+    "development_stage": null,
+    "technology_readiness_level": null,
+    "regulatory_jurisdiction": null,
+    "regulator": null,
+    "licensing_status": null,
+    "licensing_docket_number": null,
+    "demonstration_site": null,
+    "target_operation_year": null
+  },
+  "commercial_information": {
+    "target_applications": [],
+    "customers": [],
+    "partners": [],
+    "reported_funding_amount": null,
+    "funding_currency": null,
+    "funding_basis": null,
+    "funding_as_of_date": null
+  },
+  "sources": [
+    {
+      "source_id": null,
+      "title": null,
+      "publisher": null,
+      "source_type": null,
+      "url": null,
+      "publication_date": null,
+      "accessed_date": null,
+      "supported_fields": []
+    }
+  ],
+  "record_metadata": {
+    "record_type": "template",
+    "last_updated_date": null,
+    "review_status": null,
+    "notes": null
+  }
+}

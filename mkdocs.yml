@@ -1,0 +1,22 @@
+# Run with sh preview.sh; the launcher supplies the repository path.
+site_name: Insight Dashboard
+site_description: Nuclear security research instructions and company data examples.
+docs_dir: !ENV INSIGHT_DASHBOARD_DOCS_DIR
+site_dir: site
+
+theme:
+  name: mkdocs
+
+exclude_docs: |
+  /mkdocs.yml
+
+nav:
+  - Home: README.md
+  - Repository guide: AGENTS.md
+  - Parsing instructions: instructions.md
+  - Literature search prompt: literature_search_query.md
+  - Examples:
+      - Overview: examples/README.md
+      - Water-cooled reactor: examples/01-water-cooled/raw.md
+      - Gas-cooled reactor: examples/02-gas-cooled/raw.md
+      - Partial reactor information: examples/03-partial-data/raw.md
